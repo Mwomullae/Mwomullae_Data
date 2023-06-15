@@ -6,4 +6,6 @@
 * restaurant_information_2.csv: "user_item_data.ipynb" 결과를 저장한 csv파일 
 * real_user_item_data.ipynb: 동아대학교 학생들의 평점 데이터를 직접 수집한 후 이를 전처리한 코드
 * user_item_real_data.csv: "real_user_item_data.ipynb" 결과를 저장한 파일 
-* chlwhd
+* mwomullae_real_data.csv: 최종 추천 서비스 코드에서 사용된 데이터가 저장된 csv파일<br>
+
+---
